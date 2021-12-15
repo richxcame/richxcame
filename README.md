@@ -43,7 +43,7 @@
 - [ ] ssr.md
 - [ ] state-management.md
 - [ ] syntax.md
-- [ ] team.md
+- [x] team.md
 - [ ] testing.md
 - [ ] transitioning-state.md
 - [ ] transitions.md
