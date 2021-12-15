@@ -9,6 +9,7 @@
 <span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
 
 #### AIM
+***/src/v2/guide/***
 - [x] class-and-style.md
 - [ ] comparison.md
 - [ ] components-custom-events.md
@@ -48,4 +49,36 @@
 - [ ] transitioning-state.md
 - [ ] transitions.md
 - [ ] typescript.md
-- [ ] api/index.md
+
+***/themes/vue/src/v2/api/***
+- [ ] index.md
+
+***/themes/vue/layout***
+- [x] index.ejs
+- [x] layout.ejs
+- [ ] page.ejs
+- [ ] partners-page.ejs
+- [ ] post.ejs
+- [ ] search-page.ejs
+- [ ] sponsors-page.ejs
+
+***/themes/vue/layout/partials/***
+- [ ] ad-text.ejs
+- [ ] ad.ejs
+- [ ] conf.ejs
+- [ ] ecosystem_dropdown.ejs
+- [ ] header.ejs
+- [ ] anguage_dropdown.ejs
+- [ ] learn_dropdown.ejs
+- [ ] main_menu.ejs
+- [ ] platinum_sponsors.ejs
+- [ ] resources_dropdown.ejs
+- [ ] sidebar.ejs
+- [ ] sponsors.ejs
+- [ ] sponsors_sidebar.ejs
+- [ ] support_vue_dropdown.ejs
+- [ ] toc.ejs
+- [ ] vuemastery_banner.ejs
+
+***/themes/vue/src/coc/***
+- [ ] index.md
