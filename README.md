@@ -56,7 +56,7 @@
 ***/themes/vue/layout***
 - [x] index.ejs
 - [x] layout.ejs
-- [ ] page.ejs
+- [x] page.ejs
 - [ ] partners-page.ejs
 - [ ] post.ejs
 - [ ] search-page.ejs
