@@ -57,7 +57,7 @@
 - [x] index.ejs
 - [x] layout.ejs
 - [x] page.ejs
-- [ ] partners-page.ejs
+- [x] partners-page.ejs
 - [ ] post.ejs
 - [ ] search-page.ejs
 - [ ] sponsors-page.ejs
