@@ -59,7 +59,7 @@
 - [x] page.ejs
 - [x] partners-page.ejs
 - [x] post.ejs
-- [ ] search-page.ejs
+- [x] search-page.ejs
 - [ ] sponsors-page.ejs
 
 ***/themes/vue/layout/partials/***
