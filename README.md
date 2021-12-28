@@ -60,7 +60,7 @@
 - [x] partners-page.ejs
 - [x] post.ejs
 - [x] search-page.ejs
-- [ ] sponsors-page.ejs
+- [x] sponsors-page.ejs
 
 ***/themes/vue/layout/partials/***
 - [ ] ad-text.ejs
