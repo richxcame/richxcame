@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/richxcame/richxcame/issues"
   },
-  "homepage": "https://github.com/richxcame/richxcame#readme"
+  "homepage": "https://github.com/richxcame/richxcame#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
