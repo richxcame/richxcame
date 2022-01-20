@@ -1,4 +1,4 @@
-#!/usr/bin/env start
+#!/usr/bin/env node
 import chalk from 'chalk';
 import boxen from 'boxen';
 
@@ -15,7 +15,7 @@ log(
 log(`
 About me:
   ☕️  Coffee geek
-  🥷  Coding ninja
+  🥷   Coding ninja
   🎧  Music enthusiast
   🧠  Math lover
 `);
