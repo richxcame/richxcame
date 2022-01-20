@@ -9,7 +9,10 @@
 <span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
 
 #### AIM (tk.vuejs.org)
-***/src/v2/guide/***
+<details>
+  <summary>Click to expand!</summary>
+  
+  ***/src/v2/guide/***
 - [x] class-and-style.md
 - [ ] comparison.md
 - [ ] components-custom-events.md
@@ -82,3 +85,4 @@
 
 ***/themes/vue/src/coc/***
 - [ ] index.md
+</details>
