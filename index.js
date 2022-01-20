@@ -1,3 +1,4 @@
+#!/usr/bin/env start
 import chalk from 'chalk';
 import boxen from 'boxen';
 
