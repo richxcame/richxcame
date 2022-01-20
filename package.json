@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/richxcame/richxcame#readme",
   "dependencies": {
+    "boxen": "^6.2.1",
     "chalk": "^5.0.0"
   }
 }
