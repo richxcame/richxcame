@@ -1,4 +1,7 @@
-# Baygeldi Cholukov
+<h1 align="center">Baygeldi Cholukov</h1>
+
+> If you have installed node on your computer then you can read about me via `npx richxcame` 
+
 - ☕️ Coffee geek
 - 🥷  Coding ninja
 - 💻 Vim lover
