@@ -11,6 +11,8 @@
 <span><img src="images/vim.png" alt="VIM" width="75" height="75" title="VIM" /></span>
 <span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
 
+[![richxcame's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richxcame)](https://github.com/anuraghazra/github-readme-stats)
+
 #### AIM (tk.vuejs.org)
 <details>
   <summary>Click to expand!</summary>
