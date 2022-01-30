@@ -13,6 +13,10 @@
 
 ![Richxcame's GitHub stats](https://github-readme-stats.vercel.app/api?username=richxcame&count_private=true&theme=github_dark&show_icons=true)
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame&langs_count=8&layout=compact)
+
 #### AIM (tk.vuejs.org)
 <details>
   <summary>Click to expand!</summary>
