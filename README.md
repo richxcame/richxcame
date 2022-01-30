@@ -11,7 +11,7 @@
 <span><img src="images/vim.png" alt="VIM" width="75" height="75" title="VIM" /></span>
 <span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame)](https://github.com/anuraghazra/github-readme-stats)
+![Richxcame's GitHub stats](https://github-readme-stats.vercel.app/api?username=richxcame&count_private=true&theme=github_dark&show_icons=true)
 
 #### AIM (tk.vuejs.org)
 <details>
