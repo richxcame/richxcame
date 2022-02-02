@@ -1,5 +1,7 @@
 <h1 align="center">Baygeldi Cholukov</h1>
 
+![profile-views](https://komarev.com/ghpvc/?username=richxcame&color=brightgreen)
+
 > If you have installed node on your computer then you can read about me via `npx richxcame` 
 
 - ☕️ Coffee geek
