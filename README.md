@@ -23,6 +23,8 @@
 
 <br />
 
+<a href="https://app.daily.dev/richxcame"><img src="https://api.daily.dev/devcards/f8e0891cb59348df81761ac4cfcaa4b1.png?r=y6e" width="400" alt="Baygeldi Cholukov's Dev Card"/></a>
+
 ![richxcame's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richxcame)
 
 #### AIM (tk.vuejs.org)
