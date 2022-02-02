@@ -1,105 +1,24 @@
-<h1 align="center">Baygeldi Cholukov</h1>
-
-![profile-views](https://komarev.com/ghpvc/?username=richxcame&color=brightgreen)
-
-> If you have installed node on your computer then you can read about me via `npx richxcame` 
-
+# 💫 About Me :
 - ☕️ Coffee geek
 - 🥷  Coding ninja
 - 💻 Vim lover
 - 🎧 Music enthusiast 
 
-#### Editors I love
-<span><img src="images/vim.png" alt="VIM" width="75" height="75" title="VIM" /></span>
-<span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/richxcame) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/richxcame) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richxcame) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16276221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/richxcame) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richxcame&theme=chartreuse-dark&cache_delete=6" alt="my github stats" width="80%" />
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=richxcame&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Richxcame's GitHub stats](https://github-readme-stats.vercel.app/api?username=richxcame&count_private=true&theme=github_dark&show_icons=true)
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=richxcame&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame&langs_count=8&layout=compact)
-
-<br />
-
-![richxcame's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richxcame)
-
-#### AIM (tk.vuejs.org)
-<details>
-  <summary>Click to expand!</summary>
-  
-  ***/src/v2/guide/***
-- [x] class-and-style.md
-- [ ] comparison.md
-- [ ] components-custom-events.md
-- [ ] components-dynamic-async.md
-- [ ] components-edge-cases.md
-- [ ] components-props.md
-- [ ] components-registration.md
-- [ ] components-slots.md
-- [ ] components.md
-- [ ] computed.md
-- [ ] conditional.md
-- [ ] custom-directive.md
-- [ ] deployment.md
-- [ ] events.md
-- [ ] filters.md
-- [ ] forms.md
-- [ ] index.md
-- [ ] installation.md
-- [ ] instance.md
-- [ ] join.md
-- [ ] list.md
-- [ ] migration-vue-router.md
-- [ ] migration-vuex.md
-- [ ] migration.md
-- [ ] mixins.md
-- [ ] plugins.md
-- [ ] reactivity.md
-- [ ] render-function.md
-- [ ] routing.md
-- [ ] security.md
-- [ ] single-file-components.md
-- [ ] ssr.md
-- [ ] state-management.md
-- [ ] syntax.md
-- [x] team.md
-- [ ] testing.md
-- [ ] transitioning-state.md
-- [ ] transitions.md
-- [ ] typescript.md
-
-***/themes/vue/src/v2/api/***
-- [ ] index.md
-
-***/themes/vue/layout***
-- [x] index.ejs
-- [x] layout.ejs
-- [x] page.ejs
-- [x] partners-page.ejs
-- [x] post.ejs
-- [x] search-page.ejs
-- [x] sponsors-page.ejs
-
-***/themes/vue/layout/partials/***
-- [ ] ad-text.ejs
-- [ ] ad.ejs
-- [ ] conf.ejs
-- [ ] ecosystem_dropdown.ejs
-- [ ] header.ejs
-- [ ] anguage_dropdown.ejs
-- [ ] learn_dropdown.ejs
-- [ ] main_menu.ejs
-- [ ] platinum_sponsors.ejs
-- [ ] resources_dropdown.ejs
-- [ ] sidebar.ejs
-- [ ] sponsors.ejs
-- [ ] sponsors_sidebar.ejs
-- [ ] support_vue_dropdown.ejs
-- [ ] toc.ejs
-- [ ] vuemastery_banner.ejs
-
-***/themes/vue/src/coc/***
-- [ ] index.md
-</details>
+---
+![](https://komarev.com/ghpvc/?username=richxcame&label=Visitors+Count&color=brightgreen)
