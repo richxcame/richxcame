@@ -13,6 +13,8 @@
 <span><img src="images/vim.png" alt="VIM" width="75" height="75" title="VIM" /></span>
 <span><img src="images/vscode.png" alt="Visual Studio Code" width="75" height="75" title="Visual Studio Code" /></span>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=richxcame&theme=chartreuse-dark&cache_delete=6" alt="my github stats" width="80%" />
+
 ![Richxcame's GitHub stats](https://github-readme-stats.vercel.app/api?username=richxcame&count_private=true&theme=github_dark&show_icons=true)
 
 <br/>
