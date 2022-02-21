@@ -1,6 +1,6 @@
 {
 	"name": "richxcame",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "About Baygeldi Cholukov",
 	"main": "index.js",
 	"bin": "index.js",
