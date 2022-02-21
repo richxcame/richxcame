@@ -9,7 +9,7 @@ log(boxen('richxcame', { borderStyle: 'arrow', margin: 2, padding: 1 }));
 log(
 	'Hi 👋, My name is ' +
 		chalk.bold.underline.blue('Baygeldi') +
-		'. I ❤️  111(☘️ ) and VIM'
+		'. I ❤️  VIM'
 );
 
 log(`
